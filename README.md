@@ -9,6 +9,5 @@ This repository contains backend part of [Food Ordering App](https://github.com/
 ### How to use
 
 1. Fork or download the repository.
-2. Insert secret key obtained from Stripe website on line 4: 
-https://github.com/DomSas/Food-Ordering-App-Backend/blob/18b3a8728198f76d5138cd7c0627494a50f76a1d/index.js#L3-L5
+2. Insert secret key obtained from Stripe website on line 4: https://github.com/monaca-samples/food-ordering-app-backend/blob/3fa589543127d0cbf573e3af794600f92bf303ba/index.js#L3-L5
 3. Start the server locally with `npm run start`, or deploy the app on Heroku to be publicly available.
